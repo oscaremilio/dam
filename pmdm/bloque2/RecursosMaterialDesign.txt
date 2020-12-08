@@ -1,0 +1,10 @@
+Gran cantidad de recursos gratuitos en la web para poder aplicarlos
+en los proyectos desarrollados:
+● Material Design (https://material.io/)
+● Material Design for Android (https://developer.android.com/guide/topics/ui/look-and-feel)
+● Material Design Palette (https://www.materialpalette.com/)
+● Material Colors (http://materialcolors.com/)
+● Flaticon (https://www.flaticon.com/)
+● Icons8 (https://icons8.com/)
+● Iconmonstr (https://iconmonstr.com/)
+● Material Design Icons (https://materialdesignicons.com/)
