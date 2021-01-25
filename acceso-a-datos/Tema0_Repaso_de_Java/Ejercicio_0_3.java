@@ -54,5 +54,7 @@ public class Ejercicio_0_3 {
                     System.out.print("No has escrito lo que pedía");
             
         }
+
+        entrada.close();
     }
 }
