@@ -30,6 +30,8 @@ public class Ejercicio_0_2 {
         if (cantidad == 1) {
             System.out.println("es un número primo");
         }
+
+        entrada.close();
     }
     
 }
