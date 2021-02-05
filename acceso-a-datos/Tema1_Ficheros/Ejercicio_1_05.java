@@ -2,7 +2,7 @@
 /*
 Programa que añade a un fichero ”log.txt” una nueva línea en cada ejecución,
 que contendrá la fecha (en formato 19-09-2019), la hora (17:02:09) 
-y el texto introducción por el usuario.
+y el texto introducido por el usuario.
 */
 
 import java.io.*;
