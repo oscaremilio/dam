@@ -45,7 +45,7 @@ public class Ejercicio_1_05b {
         }
         // Si no existe el fichero intenta leer otro elegido por el usuario
         else {
-                System.out.print("Fichero escogido para visualizar: ");
+                System.out.print("Fichero a leer: ");
                 String nombreFichero = entrada.nextLine() + ".txt";
 
                  // Comprueba si existe el fichero
@@ -57,10 +57,8 @@ public class Ejercicio_1_05b {
                 // Si existe, intenta leer el fichero
             System.out.println("Leyendo fichero...\n");
             
-            
             try {
                 BufferedReader ficheroEntrada = new BufferedReader( new FileReader( new File(nombreFichero) ) );
-                
                 
                 String linea = ficheroEntrada.readLine();
 
