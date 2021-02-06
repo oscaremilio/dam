@@ -51,6 +51,7 @@ public class Ejercicio_1_05b {
                  // Comprueba si existe el fichero
                 if ( !(new File (nombreFichero) ).exists() ) {
                     System.out.println("No he encontrado \"log.txt\"");
+                    entrada.close();
                     return;
                 }
 
@@ -80,5 +81,8 @@ public class Ejercicio_1_05b {
             System.out.println("\nFin de lectura");
 
         }
+
+        entrada.close();
+
     }
 } 
