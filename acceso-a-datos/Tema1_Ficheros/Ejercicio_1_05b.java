@@ -45,7 +45,7 @@ public class Ejercicio_1_05b {
         }
         // Si no existe el fichero intenta leer otro elegido por el usuario
         else {
-                System.out.print("Fichero a leer: ");
+                System.out.print("Introduce fichero a leer: ");
                 String nombreFichero = entrada.nextLine() + ".txt";
 
                  // Comprueba si existe el fichero
