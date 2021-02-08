@@ -49,6 +49,8 @@ public class Ejercicio_1_08 {
         // Muestra el contador actualizado si había vocales en el fichero 
         System.out.println("Cantidad (total) de vocales en el fichero: " + contador);
 
+        entrada.close();
+
     }
 
 }
