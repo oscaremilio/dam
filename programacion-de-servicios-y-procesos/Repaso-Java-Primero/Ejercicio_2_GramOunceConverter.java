@@ -15,7 +15,7 @@ public class Ejercicio_2_GramOunceConverter {
         System.out.print("Introduce tu peso en gramos: ");
         int pesoGramos = sc.nextInt();
 
-        System.out.printf("Tu peso en onzas es: %2.3f", (double)pesoGramos/38.3495);
+        System.out.printf("Tu peso en onzas es: %2.3f", (double)pesoGramos/28.3495);
 
         sc.close();
 
