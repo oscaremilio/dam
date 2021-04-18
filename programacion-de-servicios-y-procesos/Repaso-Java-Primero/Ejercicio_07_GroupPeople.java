@@ -15,7 +15,7 @@ y 8 grupos de 1 persona.
 
 import java.util.Scanner;
 
-public class Ejercicio_7_GroupPeople {
+public class Ejercicio_07_GroupPeople {
     
     public static void main(String[] args) {
 
