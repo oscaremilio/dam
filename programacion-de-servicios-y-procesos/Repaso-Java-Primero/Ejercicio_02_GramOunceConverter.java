@@ -7,7 +7,7 @@ teniendo en cuenta que 1 onza = 28.3495 gramos.
 
 import java.util.Scanner;
 
-public class Ejercicio_2_GramOunceConverter {
+public class Ejercicio_02_GramOunceConverter {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
