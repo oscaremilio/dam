@@ -10,7 +10,7 @@ la salida del programa será : "El resultado es 224, y este tiene 3 dígitos".
 
 import java.util.Scanner;
 
-public class Ejercicio_8_SumDigits {
+public class Ejercicio_08_SumDigits {
     public static void main(String[] args) {
 
         int numero=0, suma = 0, digito = 0, total=0;
