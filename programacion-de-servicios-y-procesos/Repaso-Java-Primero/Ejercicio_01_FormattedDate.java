@@ -4,7 +4,7 @@ import java.util.Scanner;
 Programa que pide al usuario el día, mes, y año de nacimiento(todos valores enteros). Tras ello imprime la fecha de nacimiento con el formato dd/mm/yyyy.
 */
 
-class Ejercicio_1_FormattedDate {
+class Ejercicio_01_FormattedDate {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
