@@ -12,7 +12,7 @@ Se usa una instrucción "switch". Si la unidad no es
 
 import java.util.Scanner;
 
-public class Ejercicio_6_GramOunceConverterImproved {
+public class Ejercicio_06_GramOunceConverterImproved {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
