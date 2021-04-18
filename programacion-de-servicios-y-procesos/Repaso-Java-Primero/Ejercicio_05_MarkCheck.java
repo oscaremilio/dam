@@ -10,7 +10,7 @@ imprimiendo un mensaje, dependiendo de los valores introducidos, de entre los si
 
 import java.util.Scanner;
 
-public class Ejercicio_5_MarkCheck {
+public class Ejercicio_05_MarkCheck {
     
     public static void main(String[] args) {
 
