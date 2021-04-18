@@ -9,7 +9,7 @@ del círculo (PI * radio * radio).
 
 import java.util.Scanner;
 
-public class Ejercicio_4_CircleArea {
+public class Ejercicio_04_CircleArea {
 
     public static final float PI = 3.14159f;
     public static void main(String[] args) {
