@@ -32,5 +32,7 @@ public class Ejercicio_3_NumberStrings {
         System.out.println("Unimos " + numero1 + " y " + numero2 + " = " + union1y2);
         System.out.println("Unimos " + numero3 + " y " + numero4 + " = " + union3y4);
         System.out.println("Sumamos " + union1y2 + " + " + union3y4 + " = " + (union1y2 + union3y4));
+
+        sc.close();
     }
 }
