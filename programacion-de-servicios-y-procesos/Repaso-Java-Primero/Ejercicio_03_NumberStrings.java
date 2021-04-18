@@ -9,7 +9,7 @@ y obtiene un resultado de 47423.
 
 import java.util.Scanner;
 
-public class Ejercicio_3_NumberStrings {
+public class Ejercicio_03_NumberStrings {
     public static void main(String[] args) {
 
         int numero1, numero2, numero3, numero4, union1y2, union3y4;
