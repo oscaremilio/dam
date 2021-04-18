@@ -8,7 +8,7 @@ que ocupan la misma posición en cada matriz.
 
 import java.util.Scanner;
 
-public class Ejercicio_9_MatrixAddition {
+public class Ejercicio_09_MatrixAddition {
 
     public static void main(String[] args) {
 
