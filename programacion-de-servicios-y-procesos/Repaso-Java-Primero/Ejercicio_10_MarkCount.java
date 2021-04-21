@@ -36,5 +36,7 @@ public class Ejercicio_10_MarkCount {
             contador++;
             cantidad = 0;
         }
+
+        sc.close();
     }
 }
