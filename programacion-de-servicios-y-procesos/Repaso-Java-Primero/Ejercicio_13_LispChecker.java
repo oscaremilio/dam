@@ -2,12 +2,8 @@
 /*
 LISP es un lenguaje en el que toda instrución va encerrada entre paréntesis. 
 El programa comprobará una única cadena con una instrucción en lenguaje LISP, 
-<<<<<<< HEAD
 y después comprueba si el número de paréntesis es correcto 
 (es decir, si coinciden el número de aperturas y de cierres, 
-=======
-y después comprueba si el número de paréntesis es correcto (es decir, si coinciden el número de aperturas y de cierres, 
->>>>>>> 66b333de6350e725dedf1c8400168432a0f4571a
 sin entrar en otros detalles como su posición concreta).
 */
 
