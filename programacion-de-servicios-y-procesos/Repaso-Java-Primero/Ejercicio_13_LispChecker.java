@@ -1,7 +1,9 @@
 
 /*
 LISP es un lenguaje en el que toda instrución va encerrada entre paréntesis. 
-El programa comprobará una única cadena con una instrucción en lenguaje LISP, y después comprueba si el número de paréntesis es correcto (es decir, si coinciden el número de aperturas y de cierres, sin entrar en otros detalles como su posición concreta).
+El programa comprobará una única cadena con una instrucción en lenguaje LISP, 
+y después comprueba si el número de paréntesis es correcto (es decir, si coinciden el número de aperturas y de cierres, 
+sin entrar en otros detalles como su posición concreta).
 */
 
 public class Ejercicio_13_LispChecker {
