@@ -9,7 +9,7 @@ Pruebalo con:
 cadena a = "This string is just a sample string", 
 subcadena b = "string"
 número n = 2.
-El resultado de este ejemplo devuelto debería ser true.
+El resultado de este ejemplo devuelto debería ser "true".
 */
 
 
