@@ -3,8 +3,8 @@
 Programa con una función llamada "countString".
 Esta función tendrá como parámetros dos cadenas "a" y "b", 
 y un entero "n" como parámetros,
-y devolverá un booleano indicando si la cadena "b" está contenida
-como mínimo "n" veces en la cadena principal "a".
+y devolverá un booleano indicando si la cadena "b" está contenida como mínimo
+"n" veces en la cadena principal "a".
 Pruebalo con:
 cadena a = "This string is just a sample string", 
 subcadena b = "string",
