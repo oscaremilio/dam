@@ -93,9 +93,9 @@ public class Ejercicio_17_VideoGameList {
         
         for (int i = 0; i < videojuegos.length; i++) {
             System.out.println("Videojuego " + (i+1));
-            System.out.println("Título: " + videojuegos[i].titulo);
-            System.out.println("Género: " + videojuegos[i].genero);
-            System.out.println("Precio: " + videojuegos[i].precio);
+            System.out.println("Título: " + videojuegos[i].getTitulo());
+            System.out.println("Género: " + videojuegos[i].getGenero());
+            System.out.println("Precio: " + videojuegos[i].getPrecio());
             System.out.println();
         }
         */
@@ -114,7 +114,7 @@ public class Ejercicio_17_VideoGameList {
             }
         }
 
-        // Imprime el precio más caro y el más barato
+        // Imprime el precio (formateado) más caro y el más barato
         System.out.printf("El precio más caro es de %.2f €\n", masCaro);
         System.out.printf("El precio más barato es de %.2f €", masBarato);
 
