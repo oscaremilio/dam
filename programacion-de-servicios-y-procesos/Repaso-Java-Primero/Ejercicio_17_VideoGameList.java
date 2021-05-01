@@ -1,8 +1,8 @@
 /* 
 Programa que almacena objetos de una clase llamada VideoGame que debes definir.
 Por cada videojuego, vamos a almacenar su título, género y precio.
-Añade también los corespondientes getters, setters y constructor para configurar
-estos valores.
+Añade también los correspondientes getters, setters y constructor 
+para configurar estos valores.
 Define una clase main pública y la clase VideoGame en el mismo código fuente.
 Después, en el método main, crea un array de 5 videojuegos, 
 pide al usuario que rellene la información de cada videojuego, 
@@ -16,9 +16,9 @@ import java.util.Scanner;
 class VideoGame {
     
     // Variables
-    String titulo;
-    String genero;
-    float precio;
+    private String titulo;
+    private String genero;
+    private float precio;
 
     // Constructor
     public VideoGame(String t, String g, float p) {
@@ -101,16 +101,16 @@ public class Ejercicio_17_VideoGameList {
         */
 
         // Asigna el primer precio del array a estas variables
-        masBarato = videojuegos[0].precio;
-        masCaro = videojuegos[0].precio;
+        masBarato = videojuegos[0].getPrecio();
+        masCaro = videojuegos[0].getPrecio();
 
         // Cambia las variables si el precio es más alto o más bajo
         for (int i = 1; i < videojuegos.length; i++) {
-            if( (videojuegos[i].precio) < masBarato) {
-                masBarato = videojuegos[i].precio;
+            if( (videojuegos[i].getPrecio()) < masBarato) {
+                masBarato = videojuegos[i].getPrecio();
             }
-            if( (videojuegos[i].precio) > masCaro) {
-                masCaro = videojuegos[i].precio;
+            if( (videojuegos[i].getPrecio()) > masCaro) {
+                masCaro = videojuegos[i].getPrecio();
             }
         }
 
